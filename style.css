@@ -150,7 +150,7 @@ main p {
 		color: var(--desaturated-blue);
 		font-size: 1em;
 		font-weight: var(--fw700);
-		margin: 1.5em 0 2em;
+		margin: 1.5em 0;
 }
 .cancel:hover {
 		color: var(--dark-blue);
